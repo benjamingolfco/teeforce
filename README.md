@@ -5,7 +5,8 @@
 
 Tee time booking platform for golf courses.
 
-> Private repository — [BenjaminGolfCo](https://github.com/benjamingolfco)
+> Built solo by [Aaron Benjamin](https://github.com/aarongbenjamin) — [BenjaminGolfCo](https://github.com/benjamingolfco)
+
 
 ## Principles
 
